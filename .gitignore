@@ -1,0 +1,8 @@
+### Hugo ###
+# Generated files by hugo
+# /public/
+/resources/_gen/
+# /themes/
+
+# OSX
+.DS_Store
